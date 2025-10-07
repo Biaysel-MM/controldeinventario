@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic Sales System with ASP.NET Core and MongoDB
 
 Basic sales and inventory management system built with ASP.NET Core, MongoDB and Vuetify.
@@ -41,3 +42,6 @@ Basic sales and inventory management system built with ASP.NET Core, MongoDB and
 - *[Create a web API with ASP.NET Core and MongoDB](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-3.1&tabs=visual-studio)*
 - *[Building an app with .Net Core and Vue](https://www.udemy.com/course/desarrolla-sistemas-web-asp-net-core-sql-server-vuejs-vuetify/)*
 - *[Vuetify](https://vuetifyjs.com/en/getting-started/quick-start/)*
+=======
+# controldeinventario
+>>>>>>> d3f453361f6a80fcbf8c7059bcc4db94765cf971
