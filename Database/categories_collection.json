@@ -1,0 +1,20 @@
+[
+  {
+    "_id": { "$oid": "650000000000000000000011" },
+    "name": "Beauty",
+    "description": "Productos de belleza",
+    "active": true
+  },
+  {
+    "_id": { "$oid": "650000000000000000000012" },
+    "name": "Cell Phones",
+    "description": "Teléfonos móviles y accesorios",
+    "active": true
+  },
+  {
+    "_id": { "$oid": "650000000000000000000013" },
+    "name": "Consumer Electronics",
+    "description": "Electrónica de consumo",
+    "active": true
+  }
+]

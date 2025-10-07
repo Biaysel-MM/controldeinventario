@@ -1,0 +1,29 @@
+[
+  {
+    "_id": { "$oid": "650000000000000000000001" },
+    "name": "administrator",
+    "normalizedName": "ADMINISTRATOR",
+    "concurrencyStamp": "be94234e-69cd-4a66-80a6-eee60ee3176f",
+    "claims": null,
+    "description": "Rol de administrador con todos los permisos.",
+    "active": true
+  },
+  {
+    "_id": { "$oid": "650000000000000000000002" },
+    "name": "storekeeper",
+    "normalizedName": "STOREKEEPER",
+    "concurrencyStamp": "f36da405-ff45-4848-b316-db1daf38e7bb",
+    "claims": null,
+    "description": "Encargado de inventario.",
+    "active": true
+  },
+  {
+    "_id": { "$oid": "650000000000000000000003" },
+    "name": "salesman",
+    "normalizedName": "SALESMAN",
+    "concurrencyStamp": "a0df0b94-7f31-4bd0-9a8e-b643571a1425",
+    "claims": null,
+    "description": "Vendedor de productos.",
+    "active": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": { "$oid": "650000000000000000000101" },
+    "userName": "admin@miempresa.com",
+    "normalizedUserName": "ADMIN@MIEMPRESA.COM",
+    "email": "admin@miempresa.com",
+    "normalizedEmail": "ADMIN@MIEMPRESA.COM",
+    "emailConfirmed": true,
+    "passwordHash": "AQAAAAEAACcQAAAAEHYq1HdKKbS7yI8Oe0U4z4n+3B5r0v1wDk6YlwWog==",
+    "securityStamp": "randomstring123",
+    "concurrencyStamp": "randomstring456",
+    "phoneNumber": "000-000-0000",
+    "phoneNumberConfirmed": false,
+    "twoFactorEnabled": false,
+    "lockoutEnd": null,
+    "lockoutEnabled": true,
+    "accessFailedCount": 0,
+    "authenticatorKey": null,
+    "roles": [
+      { "$oid": "650000000000000000000001" }
+    ],
+    "claims": [],
+    "logins": [],
+    "tokens": [],
+    "recoveryCodes": [],
+    "fullName": "Administrador Principal",
+    "address": "Mi Dirección",
+    "enabled": true
+  }
+]
